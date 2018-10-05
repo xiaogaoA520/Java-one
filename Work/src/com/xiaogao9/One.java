@@ -21,4 +21,9 @@ public class One {
 		
 	}
 
+	public status void test()
+	{
+	}
+
+
 }
